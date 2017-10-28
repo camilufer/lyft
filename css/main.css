@@ -113,7 +113,8 @@ hr{
 .purpura{
   width: 100%;
   height:700px;
-  background:linear-gradient(#76278F, #2B1E66);
+  z-index: 1;
+  background:linear-gradient(#76278F, #2B1E66)
 }
 
 .purpura img{
@@ -175,7 +176,7 @@ h5{
 
 .videodos {
     position: absolute;
-    margin-top: 193px;
+    margin-top: 185px;
 }
 
 .watchdos{
@@ -189,7 +190,7 @@ h5{
 .videotres {
     position: absolute;
     margin-left: 512px;
-    margin-top: 168px;
+    margin-top: 150px;
 }
 
 .watchtres{
@@ -197,7 +198,7 @@ h5{
 }
 
 footer{
-	margin-top: 180px;
+	margin-top: 155px;
 	height: 500px;
 	width:100%;
 	background-color: #333447;

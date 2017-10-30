@@ -249,14 +249,5 @@ footer div{
 	margin-left:60px;
 }
 
-.iconos{
-	z-index: 100px;
-
-}
-.icon-facebook2:before {
-  content: "\e903";
-  z-index: 100px;
-}
-
 
 
